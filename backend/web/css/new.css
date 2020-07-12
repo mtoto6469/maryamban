@@ -1,0 +1,41 @@
+
+.flip {
+    padding: 5px;
+    margin: 2% 0 0;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+.panel {
+    overflow-y: scroll;
+    display: none;
+    text-align: right;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+.td_h{
+    padding: 4%;
+}
+.right-ul{
+    font-weight: bolder;
+    border-left: 1px solid grey;
+}
+.pricing-head h4{
+    height: 100px !important;
+}
+.right-ul li{
+  display: inline-block!important;
+    padding: 10px!important;
+}
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jquery",
+  "main": "dist/jquery.js1",
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "jquery",
+    "javascript",
+    "browser",
+    "library"
+  ]
+}

@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url("../../../fonts/fontawesome-webfont.eot?v=4.4.0");
+    src: url("../../../fonts/fontawesome-webfont.eot?#iefix&v=4.4.0") format("embedded-opentype"), url("../../fonts/fontawesome-webfont.woff2?v=4.4.0") format("woff2"), url("../../fonts/fontawesome-webfont.woff?v=4.4.0") format("woff"), url("../../../fonts/fontawesome-webfont.ttf?v=4.4.0") format("truetype"), url("../../fonts/fontawesome-webfont.svg?v=4.4.0#fontawesomeregular") format("svg"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url("../../../fonts/IRANSansWeb(FaNum)_Bold.eot");
+    src: url("../../../fonts/IRANSansWeb(FaNum)_Bold.eot?#iefix") format("embedded-opentype"), url("../../fonts/IRANSansWeb(FaNum)_Bold.woff2") format("woff2"), url("../../fonts/IRANSansWeb(FaNum)_Bold.woff") format("woff"), url("../../fonts/IRANSansWeb(FaNum)_Bold.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../../../fonts/IRANSansWeb(FaNum)_Medium.eot");
+    src: url("../../../fonts/IRANSansWeb(FaNum)_Medium.eot?#iefix") format("embedded-opentype"), url("../../fonts/IRANSansWeb(FaNum)_Medium.woff2") format("woff2"), url("../../fonts/IRANSansWeb(FaNum)_Medium.woff") format("woff"), url("../../fonts/IRANSansWeb(FaNum)_Medium.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../../fonts/IRANSansWeb(FaNum)_Light.eot");
+    src: url("../../fonts/IRANSansWeb(FaNum)_Light.eot?#iefix") format("embedded-opentype"), url("../../fonts/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../../fonts/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../../fonts/IRANSansWeb(FaNum)_Light.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 200;
+    src: url("../../fonts/IRANSansWeb(FaNum)_UltraLight.eot");
+    src: url("../../fonts/IRANSansWeb(FaNum)_UltraLight.eot?#iefix") format("embedded-opentype"), url("../../fonts/IRANSansWeb(FaNum)_UltraLight.woff2") format("woff2"), url("../../fonts/IRANSansWeb(FaNum)_UltraLight.woff") format("woff"), url("../../fonts/IRANSansWeb(FaNum)_UltraLight.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../../fonts/IRANSansWeb(FaNum).eot");
+    src: url("../../fonts/IRANSansWeb(FaNum).eot?#iefix") format("embedded-opentype"), url("../../fonts/IRANSansWeb(FaNum).woff2") format("woff2"), url("../../fonts/IRANSansWeb(FaNum).woff") format("woff"), url("../../fonts/IRANSansWeb(FaNum).ttf") format("truetype"); }
+@font-face {
+    font-family: 'custome-fonts';
+    src: url("../../fonts/custome-fonts.eot?8cm4et");
+    src: url("../../fonts/custome-fonts.eot?8cm4et#iefix") format("embedded-opentype"), url("../../fonts/custome-fonts.ttf?8cm4et") format("truetype"), url("../../fonts/custome-fonts.woff?8cm4et") format("woff"), url("../../fonts/custome-fonts.svg?8cm4et#custome-fonts") format("svg");
+    font-weight: normal;
+    font-style: normal; }
+.nf {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'custome-fonts';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; }
+
+.ic-customecomments:before {
+    content: "\e902"; }
+
+.ic-customenewspaper:before {
+    content: "\e903"; }
+
+.ic-customedown-angle:before {
+    content: "\e900"; }
+
+.ic-customeleft-angle:before {
+    content: "\e901"; }
+
+.ic-customeright-angle:before {
+    content: "\e915"; }
+
+.ic-customeup-angle:before {
+    content: "\e916"; }
+
+
+
+/*body {*/
+    /*font-family: "IRANSans" !important;*/
+    /*direction: rtl !important;*/
+    /*background-color: white !important;*/
+/*}*/
+
+/*body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4{*/
+    /*font-family:"IRANSans" !important;*/
+/*}*/
+
+
+table{
+    width: 100%;
+    text-align: right;
+}
+
+
+
+
+
+
+.titleProduct{
+    font-size: 20px;
+
+}
+
+.description{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 100;
+    height: 124px;
+    overflow: hidden;
+}
+
+
+.list_type{
+    font-size: 14px;
+    list-style: none;
+    color: #00A8FF;
+    padding: 0 !important;
+}
+

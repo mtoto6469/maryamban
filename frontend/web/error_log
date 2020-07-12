@@ -1,0 +1,6 @@
+[06-Jan-2018 16:50:01 UTC] PHP Parse error:  syntax error, unexpected 'access' (T_STRING), expecting ']' in /home/maryambano/public_html/frontend/controllers/AndroidController.php on line 95
+[06-Jan-2018 17:19:08 UTC] PHP Fatal error:  Call to undefined function frontend\controllers\init() in /home/maryambano/public_html/frontend/controllers/AndroidController.php on line 725
+[06-Jan-2018 17:20:29 UTC] PHP Fatal error:  Call to undefined function frontend\controllers\init() in /home/maryambano/public_html/frontend/controllers/AndroidController.php on line 725
+[12-Apr-2018 07:15:40 UTC] PHP Warning:  file_put_contents(): Only 0 of 56470 bytes written, possibly out of free disk space in /home/maryambano/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[12-Apr-2018 07:15:47 UTC] PHP Warning:  file_put_contents(): Only 0 of 56513 bytes written, possibly out of free disk space in /home/maryambano/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64
+[12-Apr-2018 07:16:00 UTC] PHP Warning:  file_put_contents(): Only 0 of 56465 bytes written, possibly out of free disk space in /home/maryambano/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 64

@@ -1,0 +1,1127 @@
+/*.slides{*/
+    /*display: inline-block;*/
+    /*width: 100%;*/
+    /*padding: 0 !important;*/
+/*}*/
+
+/*.flex-direction-nav{*/
+    /*display: none;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+/*.slides{*/
+    /*display: inline-block;*/
+    /*width: 100%;*/
+    /*padding: 0 !important;*/
+/*}*/
+
+/*.flex-direction-nav{*/
+    /*display: none;*/
+/*}*/
+
+
+/*.bg-04 {*/
+    /*background-image: url(../../../../upload/headers/bg_main.jpg);*/
+/*}*/
+
+
+/*.ih-item.square{*/
+    /*width: 100% !important;*/
+    /*margin: 30px 0;*/
+/*}*/
+
+/*.ih-item.square{*/
+    /*border: none !important;*/
+/*}*/
+
+
+
+/*.menuzord-menu > li > .megamenu.megamenu-quarter-width{*/
+    /*display: none !important;*/
+/*}*/
+
+
+/*!*.margin_top{*!*/
+/*!*margin-top: 200px;*!*/
+/*!*}*!*/
+
+
+/*.margin_layout{*/
+    /*margin: 100px 0;*/
+/*}*/
+
+
+
+
+/*.list-type-product{*/
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*top: 200px;*/
+    /*bottom: 0;*/
+    /*background-color: white;*/
+    /*transition: all 0.5s ease 0s;*/
+    /*overflow-y: scroll;*/
+    /*opacity: 0;*/
+/*}*/
+
+
+
+/*.card:hover  .list-type-product{*/
+    /*top: 0;*/
+    /*transition: all 0.5s ease 0s;*/
+    /*opacity: 1;*/
+
+/*}*/
+
+
+/*#about{*/
+    /*padding: 0 !important;*/
+/*}*/
+
+/*.tellme{*/
+    /*background-color: wheat;*/
+/*}*/
+/*article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {*/
+    /*display: block;*/
+/*}*/
+/*h1 {*/
+    /*font-family:'Questrial', Verdana, sans-serif;*/
+    /*text-align:center;*/
+    /*font-size:40px;*/
+    /*padding:0;*/
+    /*margin:0 0 20px 0;*/
+    /*position:relative;*/
+    /*color:#8C8C8C;*/
+/*}*/
+/*!** have a nice ampersand **!*/
+/*h1:after {*/
+    /*font-size:25px;*/
+    /*color:#D6CFCB;*/
+    /*content:'&';*/
+    /*text-align:center;*/
+    /*display:block;*/
+    /*width:100%;*/
+    /*font-family:'Alice', Verdana, serif;*/
+    /*text-shadow: 0px 1px 0px #fff;*/
+/*}*/
+/*!** create the gradient bottom **!*/
+/*h1:before {*/
+    /*position:absolute;*/
+    /*bottom:15px;*/
+    /*content:' ';*/
+    /*text-align:center;*/
+    /*display:block;*/
+    /*height:2px;*/
+    /*width:100%;*/
+    /*background: -moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);*/
+    /*!* FF3.6+ *!*/
+    /*background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(42%, rgba(182, 180, 180, 0.7)), color-stop(43%, rgba(180, 178, 178, 0)), color-stop(50%, rgba(168, 166, 166, 0)), color-stop(57%, rgba(180, 178, 178, 0)), color-stop(58%, rgba(182, 180, 180, 0.7)), color-stop(90%, rgba(238, 237, 237, 0.3)), color-stop(100%, rgba(255, 255, 255, 0)));*/
+    /*!* Chrome,Safari4+ *!*/
+    /*background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);*/
+    /*!* Chrome10+,Safari5.1+ *!*/
+    /*background: -o-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);*/
+    /*!* Opera 11.10+ *!*/
+    /*background: -ms-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);*/
+    /*!* IE10+ *!*/
+    /*background: linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);*/
+    /*!* W3C *!*/
+/*}*/
+/*!* Here comes to good stuff : content styling *!*/
+/*#content {*/
+    /*position:relative;*/
+    /*!*margin:50px auto;*!*/
+    /*width:100%;*/
+    /*min-height:200px;*/
+    /*z-index:100;*/
+    /*padding:30px;*/
+    /*!*border:1px solid #383838;*!*/
+    /*!* My stipped background *!*/
+    /*background: #D1D1D1;*/
+    /*!* Old browsers *!*/
+    /*background: -moz-repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);*/
+    /*!* FF3.6+ *!*/
+    /*background: -webkit-repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);*/
+    /*!* FF3.6+ *!*/
+    /*background: -o-repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);*/
+    /*!* FF3.6+ *!*/
+    /*background: repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);*/
+    /*!* FF3.6+ *!*/
+    /*!*border-radius*!*/
+    /*-webkit-border-radius:8px;*/
+    /*-moz-border-radius:8px;*/
+    /*border-radius:8px;*/
+    /*!*box-shadow*!*/
+    /*-webkit-box-shadow:0px 1px 6px #3F3F3F;*/
+    /*-moz-box-shadow:0px 1px 6px #3F3F3F;*/
+    /*box-shadow:0px 1px 6px #3F3F3F;*/
+/*}*/
+/*!** my "fake" background that will hover the stripes **!*/
+/*#content:after {*/
+    /*background:#F9F9F9;*/
+    /*margin:10px;*/
+    /*position: absolute;*/
+    /*content :" ";*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*top: 0;*/
+    /*z-index: -1;*/
+    /*border:1px #E5E5E5 solid;*/
+    /*!*border-radius*!*/
+    /*-webkit-border-radius:8px;*/
+    /*-moz-border-radius:8px;*/
+    /*border-radius:8px;*/
+/*}*/
+/*!*** form styling **!*/
+
+/*!** we remove the red glow around required fields since we are already using the red star *!*/
+/*input:required, textarea:required {*/
+    /*-moz-box-shadow:none;*/
+    /*-webkit-box-shadow:none;*/
+    /*-o-box-shadow:none;*/
+    /*box-shadow:none;*/
+/*}*/
+/*!** inputs and textarea**!*/
+/*input:not([type="submit"]), textarea {*/
+    /*outline:none;*/
+    /*display:block;*/
+    /*width:380px;*/
+    /*padding:4px 8px;*/
+    /*border:1px dashed #DBDBDB;*/
+    /*color:#3F3F3F;*/
+    /*font-family:'Droid Sans', Tahoma, Arial, Verdana sans-serif;*/
+    /*font-size:14px;*/
+    /*!*border-radius*!*/
+    /*-webkit-border-radius:2px;*/
+    /*-moz-border-radius:2px;*/
+    /*border-radius:2px;*/
+    /*!*transition*!*/
+    /*-webkit-transition:background 0.2s linear, box-shadow 0.6s linear;*/
+    /*-moz-transition:background 0.2s linear, box-shadow 0.6s linear;*/
+    /*-o-transition:background 0.2s linear, box-shadow 0.6s linear;*/
+    /*transition:background 0.2s linear, box-shadow 0.6s linear;*/
+/*}*/
+/*input:not([type="submit"]):active, textarea:active, input:not([type="submit"]):focus, textarea:focus {*/
+    /*background:#F7F7F7;*/
+    /*border:dashed 1px #969696;*/
+    /*!*box-shadow*!*/
+    /*-webkit-box-shadow:2px 2px 7px #E8E8E8 inset;*/
+    /*-moz-box-shadow:2px 2px 7px #E8E8E8 inset;*/
+    /*box-shadow:2px 2px 7px #E8E8E8 inset;*/
+/*}*/
+/*!*input:not([type="submit"]) {*!*/
+/*!*height: 20px;*!*/
+/*!*}*!*/
+/*!* placeholder *!*/
+/*::-webkit-input-placeholder {*/
+    /*color:#BABABA;*/
+    /*font-style:italic;*/
+/*}*/
+/*input:-moz-placeholder, textarea:-moz-placeholder {*/
+    /*color:#BABABA;*/
+    /*font-style:italic;*/
+/*}*/
+/*textarea {*/
+    /*min-height:150px;*/
+    /*resize:vertical*/
+/*}*/
+/*!** labels**!*/
+
+/*!** adding our icon font !! *!*/
+/*.iconic:before {*/
+    /*font-size:25px;*/
+    /*font-family:'Alice', Verdana, serif;*/
+/*}*/
+/*.iconic.link:before {*/
+    /*content:'/';*/
+/*}*/
+/*.iconic.quote-alt:before {*/
+    /*content:"'";*/
+/*}*/
+/*.iconic.comment:before {*/
+    /*content:"q";*/
+/*}*/
+/*.iconic.user:before {*/
+    /*content:"u";*/
+/*}*/
+/*.iconic.mail-alt:before {*/
+    /*content:"M";*/
+/*}*/
+/*label {*/
+    /*color:#7F7E7E;*/
+    /*-webkit-transition: color 1s ease;*/
+    /*-moz-transition: color 1s ease;*/
+    /*transition: color 1s ease;*/
+/*}*/
+/*label:hover {*/
+    /*color:#191919;*/
+/*}*/
+/*label:before {*/
+    /*color:#C1BFBD;*/
+    /*-webkit-transition: color 1s ease;*/
+    /*-moz-transition: color 1s ease;*/
+    /*transition: color 1s ease;*/
+/*}*/
+/*label:hover:before {*/
+    /*color:#969696;*/
+    /*-webkit-transition: color 1s ease;*/
+    /*-moz-transition: color 1s ease;*/
+    /*transition: color 1s ease;*/
+/*}*/
+/*p {*/
+    /*margin-bottom:20px;*/
+/*}*/
+/*.indication {*/
+    /*color:#878787;*/
+    /*font-size:12px;*/
+    /*font-style:italic;*/
+    /*text-align:right;*/
+    /*padding-right:10px;*/
+/*}*/
+/*.required {*/
+    /*color:#E5224C;*/
+/*}*/
+/*!** Styling the send button **!*/
+/*input[type=submit] {*/
+    /*margin-left:235px;*/
+    /*cursor:pointer;*/
+    /*background:none;*/
+    /*border:none;*/
+    /*font-family:'Alice', serif;*/
+    /*color:#767676;*/
+    /*font-size:18px;*/
+    /*padding:10px 4px;*/
+    /*border:1px solid #E0E0E0;*/
+    /*text-shadow: 0px 1px 1px #E8E8E8;*/
+    /*background: rgb(247, 247, 247);*/
+    /*background: -moz-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, rgba(247, 247, 247, 1)), color-stop(100%, rgba(242, 242, 242, 1)));*/
+    /*background: -webkit-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -o-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -ms-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);*/
+    /*!*border-radius*!*/
+    /*-webkit-border-radius:5px;*/
+    /*-moz-border-radius:5px;*/
+    /*border-radius:5px;*/
+    /*!*box-shadow*!*/
+    /*-webkit-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #EAEAEA;*/
+    /*-moz-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #EAEAEA;*/
+    /*box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #EAEAEA;*/
+    /*!*transition*!*/
+    /*-webkit-transition:all 0.2s linear;*/
+    /*-moz-transition:all 0.2s linear;*/
+    /*-o-transition:all 0.2s linear;*/
+    /*transition:all 0.2s linear;*/
+/*}*/
+/*input[type=submit]:hover {*/
+    /*color:#686868;*/
+    /*border-color: #CECECE;*/
+    /*background: rgb(244, 244, 244);*/
+    /*background: -moz-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(244, 244, 244, 1)), color-stop(100%, rgba(242, 242, 242, 1)));*/
+    /*background: -webkit-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -o-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -ms-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*!*box-shadow*!*/
+    /*-webkit-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;*/
+    /*-moz-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;*/
+    /*box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;*/
+/*}*/
+/*input[type=submit]:active, input[type=submit]:focus {*/
+    /*position:relative;*/
+    /*top:1px;*/
+    /*color:#515151;*/
+    /*background: rgb(234, 234, 234);*/
+    /*background: -moz-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(234, 234, 234, 1)), color-stop(100%, rgba(242, 242, 242, 1)));*/
+    /*background: -webkit-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -o-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: -ms-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*background: linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);*/
+    /*!*box-shadow*!*/
+    /*-webkit-box-shadow:0px -1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;*/
+    /*-moz-box-shadow:0px -1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;*/
+    /*box-shadow:0px -1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;*/
+/*}*/
+
+
+/*.site-header .intro{*/
+    /*display: none;*/
+/*}*/
+
+
+/*.footer-widgets .widget-contact a:hover{*/
+    /*color: #ff205a !important;*/
+/*}*/
+
+
+/*.footer-widgets .widget-contact li::before{*/
+    /*transform: rotate(180deg) !important;*/
+    /*-o-transform: rotate(180deg) !important;*/
+    /*-moz-transform: rotate(180deg) !important;*/
+    /*-webkit-transform: rotate(180deg) !important;*/
+
+
+
+
+/*}*/
+
+
+
+/*.bg_section_atth{*/
+    /*background-image: url("../../upload/bg_main_att.jpg");*/
+    /*background-attachment: fixed;*/
+/*}*/
+
+
+
+
+/*.bg_section_atth .cover-ba{*/
+
+    /*background: rgba(0,0,0,0.8);*/
+/*}*/
+
+
+/*.bg_section_atth .section-content{*/
+    /*margin: 150px 0;*/
+/*}*/
+
+
+
+
+/*.bg_section_atth .section-content h4,h6,p{*/
+    /*color: white;*/
+    /*text-align: center;*/
+/*}*/
+
+
+/*.bg_section_atth{*/
+    /*margin: 100px 0;*/
+/*}*/
+
+
+
+/*.ih-item.circle{*/
+    /*margin: 30px 0;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.switch {*/
+    /*position: absolute;*/
+    /*!*top:80%;*!*/
+    /*left: 50%;*/
+    /*width: 150px;*/
+    /*height: 50px;*/
+    /*text-align: center;*/
+    /*margin: 40px -40px;*/
+    /*!*margin: -30px 0 0 -75px;*!*/
+    /*background: #00bc9c;*/
+    /*transition: all 0.2s ease;*/
+    /*border-radius: 25px;*/
+/*}*/
+/*.switch span {*/
+    /*position: absolute;*/
+    /*width: 20px;*/
+    /*height: 4px;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*margin: -2px 0px 0px -4px;*/
+    /*background: #fff;*/
+    /*display: block;*/
+    /*transform: rotate(-45deg);*/
+    /*transition: all 0.2s ease;*/
+/*}*/
+/*.switch span:after {*/
+    /*content: "";*/
+    /*display: block;*/
+    /*position: absolute;*/
+    /*width: 4px;*/
+    /*height: 12px;*/
+    /*margin-top: -8px;*/
+    /*background: #fff;*/
+    /*transition: all 0.2s ease;*/
+/*}*/
+/*input[type=radio] {*/
+    /*display: none;*/
+/*}*/
+/*.switch label {*/
+    /*cursor: pointer;*/
+    /*color: rgba(0,0,0,0.2);*/
+    /*width: 60px;*/
+    /*line-height: 50px;*/
+    /*transition: all 0.2s ease;*/
+/*}*/
+/*label[for=yes] {*/
+    /*position: absolute;*/
+    /*left: 0px;*/
+    /*height: 20px;*/
+/*}*/
+/*label[for=no] {*/
+    /*position: absolute;*/
+    /*right: 0px;*/
+/*}*/
+/*#no:checked ~ .switch {*/
+    /*background: #eb4f37;*/
+/*}*/
+/*#no:checked ~ .switch span {*/
+    /*background: #fff;*/
+    /*margin-left: -8px;*/
+/*}*/
+/*#no:checked ~ .switch span:after {*/
+    /*background: #fff;*/
+    /*height: 20px;*/
+    /*margin-top: -8px;*/
+    /*margin-left: 8px;*/
+/*}*/
+/*#yes:checked ~ .switch label[for=yes] {*/
+    /*color: #fff;*/
+/*}*/
+/*#no:checked ~ .switch label[for=no] {*/
+    /*color: #fff;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slides{
+    display: inline-block;
+    width: 100%;
+    padding: 0 !important;
+}
+
+.flex-direction-nav{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+.slides{
+    display: inline-block;
+    width: 100%;
+    padding: 0 !important;
+}
+
+.flex-direction-nav{
+    display: none;
+}
+
+
+.bg-04 {
+    background-image: url(../../../../upload/headers/tt.jpg);
+}
+
+.ih-item.square{
+    width: 100% !important;
+    margin: 30px 0;
+}
+
+.ih-item.square{
+    border: none !important;
+}
+
+
+
+.menuzord-menu > li > .megamenu.megamenu-quarter-width{
+    display: none !important;
+}
+
+
+/*.margin_top{*/
+/*margin-top: 200px;*/
+/*}*/
+
+
+.margin_layout{
+    margin: 100px 0;
+}
+
+
+
+
+.list-type-product{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 200px;
+    bottom: 0;
+    background-color: white;
+    transition: all 0.5s ease 0s;
+    overflow-y: scroll;
+    opacity: 0;
+}
+
+
+
+.card:hover  .list-type-product{
+    top: 0;
+    transition: all 0.5s ease 0s;
+    opacity: 1;
+
+}
+
+
+#about{
+    padding: 0 !important;
+}
+
+.tellme{
+    background-color: wheat;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+h1 {
+    font-family:'Questrial', Verdana, sans-serif;
+    text-align:center;
+    font-size:40px;
+    padding:0;
+    margin:0 0 20px 0;
+    position:relative;
+    color:#8C8C8C;
+}
+/** have a nice ampersand **/
+h1:after {
+    font-size:25px;
+    color:#D6CFCB;
+    content:'&';
+    text-align:center;
+    display:block;
+    width:100%;
+    font-family:'Alice', Verdana, serif;
+    text-shadow: 0px 1px 0px #fff;
+}
+/** create the gradient bottom **/
+h1:before {
+    position:absolute;
+    bottom:15px;
+    content:' ';
+    text-align:center;
+    display:block;
+    height:2px;
+    width:100%;
+    background: -moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(42%, rgba(182, 180, 180, 0.7)), color-stop(43%, rgba(180, 178, 178, 0)), color-stop(50%, rgba(168, 166, 166, 0)), color-stop(57%, rgba(180, 178, 178, 0)), color-stop(58%, rgba(182, 180, 180, 0.7)), color-stop(90%, rgba(238, 237, 237, 0.3)), color-stop(100%, rgba(255, 255, 255, 0)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);
+    /* IE10+ */
+    background: linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(182, 180, 180, 0.7) 42%, rgba(180, 178, 178, 0) 43%, rgba(168, 166, 166, 0) 50%, rgba(180, 178, 178, 0) 57%, rgba(182, 180, 180, 0.7) 58%, rgba(238, 237, 237, 0.3) 90%, rgba(255, 255, 255, 0) 100%);
+    /* W3C */
+}
+/* Here comes to good stuff : content styling */
+#content {
+    position:relative;
+    /*margin:50px auto;*/
+    width:100%;
+    min-height:200px;
+    z-index:100;
+    padding:30px;
+    /*border:1px solid #383838;*/
+    /* My stipped background */
+    background: #D1D1D1;
+    /* Old browsers */
+    background: -moz-repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);
+    /* FF3.6+ */
+    background: -webkit-repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);
+    /* FF3.6+ */
+    background: -o-repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);
+    /* FF3.6+ */
+    background: repeating-linear-gradient(-45deg, #EFC1CB, #EFC1CB 30px, #F2F2F2 30px, #F2F2F2 40px, #C2E8F5 40px, #C2E8F5 70px, #F2F2F2 70px, #F2F2F2 80px);
+    /* FF3.6+ */
+    /*border-radius*/
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    border-radius:8px;
+    /*box-shadow*/
+    -webkit-box-shadow:0px 1px 6px #3F3F3F;
+    -moz-box-shadow:0px 1px 6px #3F3F3F;
+    box-shadow:0px 1px 6px #3F3F3F;
+}
+/** my "fake" background that will hover the stripes **/
+#content:after {
+    background:#F9F9F9;
+    margin:10px;
+    position: absolute;
+    content :" ";
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: -1;
+    border:1px #E5E5E5 solid;
+    /*border-radius*/
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    border-radius:8px;
+}
+/*** form styling **/
+
+/** we remove the red glow around required fields since we are already using the red star */
+input:required, textarea:required {
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    -o-box-shadow:none;
+    box-shadow:none;
+}
+/** inputs and textarea**/
+input:not([type="submit"]), textarea {
+    outline:none;
+    display:block;
+    width:380px;
+    padding:4px 8px;
+    border:1px dashed #DBDBDB;
+    color:#3F3F3F;
+    font-family:'Droid Sans', Tahoma, Arial, Verdana sans-serif;
+    font-size:14px;
+    /*border-radius*/
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+    /*transition*/
+    -webkit-transition:background 0.2s linear, box-shadow 0.6s linear;
+    -moz-transition:background 0.2s linear, box-shadow 0.6s linear;
+    -o-transition:background 0.2s linear, box-shadow 0.6s linear;
+    transition:background 0.2s linear, box-shadow 0.6s linear;
+}
+input:not([type="submit"]):active, textarea:active, input:not([type="submit"]):focus, textarea:focus {
+    background:#F7F7F7;
+    border:dashed 1px #969696;
+    /*box-shadow*/
+    -webkit-box-shadow:2px 2px 7px #E8E8E8 inset;
+    -moz-box-shadow:2px 2px 7px #E8E8E8 inset;
+    box-shadow:2px 2px 7px #E8E8E8 inset;
+}
+/*input:not([type="submit"]) {*/
+/*height: 20px;*/
+/*}*/
+/* placeholder */
+::-webkit-input-placeholder {
+    color:#BABABA;
+    font-style:italic;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+    color:#BABABA;
+    font-style:italic;
+}
+textarea {
+    min-height:150px;
+    resize:vertical
+}
+/** labels**/
+
+/** adding our icon font !! */
+.iconic:before {
+    font-size:25px;
+    font-family:'Alice', Verdana, serif;
+}
+.iconic.link:before {
+    content:'/';
+}
+.iconic.quote-alt:before {
+    content:"'";
+}
+.iconic.comment:before {
+    content:"q";
+}
+.iconic.user:before {
+    content:"u";
+}
+.iconic.mail-alt:before {
+    content:"M";
+}
+label {
+    color:#7F7E7E;
+    -webkit-transition: color 1s ease;
+    -moz-transition: color 1s ease;
+    transition: color 1s ease;
+}
+label:hover {
+    color:#191919;
+}
+label:before {
+    color:#C1BFBD;
+    -webkit-transition: color 1s ease;
+    -moz-transition: color 1s ease;
+    transition: color 1s ease;
+}
+label:hover:before {
+    color:#969696;
+    -webkit-transition: color 1s ease;
+    -moz-transition: color 1s ease;
+    transition: color 1s ease;
+}
+p {
+    margin-bottom:20px;
+}
+.indication {
+    color:#878787;
+    font-size:12px;
+    font-style:italic;
+    text-align:right;
+    padding-right:10px;
+}
+.required {
+    color:#E5224C;
+}
+/** Styling the send button **/
+input[type=submit] {
+    margin-left:235px;
+    cursor:pointer;
+    background:none;
+    border:none;
+    font-family:'Alice', serif;
+    color:#767676;
+    font-size:18px;
+    padding:10px 4px;
+    border:1px solid #E0E0E0;
+    text-shadow: 0px 1px 1px #E8E8E8;
+    background: rgb(247, 247, 247);
+    background: -moz-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, rgba(247, 247, 247, 1)), color-stop(100%, rgba(242, 242, 242, 1)));
+    background: -webkit-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);
+    background: -o-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);
+    background: linear-gradient(top, rgba(247, 247, 247, 1) 1%, rgba(242, 242, 242, 1) 100%);
+    /*border-radius*/
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    /*box-shadow*/
+    -webkit-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #EAEAEA;
+    -moz-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #EAEAEA;
+    box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #EAEAEA;
+    /*transition*/
+    -webkit-transition:all 0.2s linear;
+    -moz-transition:all 0.2s linear;
+    -o-transition:all 0.2s linear;
+    transition:all 0.2s linear;
+}
+input[type=submit]:hover {
+    color:#686868;
+    border-color: #CECECE;
+    background: rgb(244, 244, 244);
+    background: -moz-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(244, 244, 244, 1)), color-stop(100%, rgba(242, 242, 242, 1)));
+    background: -webkit-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: -o-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: linear-gradient(top, rgba(244, 244, 244, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    /*box-shadow*/
+    -webkit-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;
+    -moz-box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;
+    box-shadow:0px 1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;
+}
+input[type=submit]:active, input[type=submit]:focus {
+    position:relative;
+    top:1px;
+    color:#515151;
+    background: rgb(234, 234, 234);
+    background: -moz-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(234, 234, 234, 1)), color-stop(100%, rgba(242, 242, 242, 1)));
+    background: -webkit-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: -o-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    background: linear-gradient(top, rgba(234, 234, 234, 1) 0%, rgba(242, 242, 242, 1) 100%);
+    /*box-shadow*/
+    -webkit-box-shadow:0px -1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;
+    -moz-box-shadow:0px -1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;
+    box-shadow:0px -1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;
+}
+
+
+.site-header .intro{
+    display: none;
+}
+
+
+.footer-widgets .widget-contact a:hover{
+    color: #ff205a !important;
+}
+
+
+.footer-widgets .widget-contact li::before{
+    transform: rotate(180deg) !important;
+    -o-transform: rotate(180deg) !important;
+    -moz-transform: rotate(180deg) !important;
+    -webkit-transform: rotate(180deg) !important;
+
+
+
+
+}
+
+
+
+.bg_section_atth{
+    background-image: url("../../upload/bg_main_att.jpg");
+    background-attachment: fixed;
+}
+
+
+
+
+.bg_section_atth .cover-ba{
+
+    background: rgba(0,0,0,0.8);
+}
+
+
+.bg_section_atth .section-content{
+    margin: 150px 0;
+}
+
+
+
+
+.bg_section_atth .section-content h4{
+    color: white;
+    text-align: center;
+}
+
+.bg_section_atth .section-content h6{
+    color: white;
+    text-align: center;
+}
+
+.bg_section_atth .section-content p{
+    color: white;
+    text-align: center;
+}
+
+
+.bg_section_atth{
+    margin: 100px 0;
+}
+
+
+
+.ih-item.circle{
+    margin: 30px 0;
+}
+
+
+
+
+.city_all{
+    margin: 100px 0;
+}
+
+
+.city_all select{
+    margin: 20px 0;
+}
+
+
+
+.switch {
+    position: absolute;
+    /*top:80%;*/
+    left: 50%;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin: 40px -40px;
+    /*margin: -30px 0 0 -75px;*/
+    background: #00bc9c;
+    transition: all 0.2s ease;
+    border-radius: 25px;
+}
+.switch span {
+    position: absolute;
+    width: 20px;
+    height: 4px;
+    top: 50%;
+    left: 50%;
+    margin: -2px 0px 0px -4px;
+    background: #fff;
+    display: block;
+    transform: rotate(-45deg);
+    transition: all 0.2s ease;
+}
+.switch span:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 4px;
+    height: 12px;
+    margin-top: -8px;
+    background: #fff;
+    transition: all 0.2s ease;
+}
+input[type=radio] {
+    display: none;
+}
+.switch label {
+    cursor: pointer;
+    color: rgba(0,0,0,0.2);
+    width: 60px;
+    line-height: 50px;
+    transition: all 0.2s ease;
+}
+label[for=yes] {
+    position: absolute;
+    left: 0px;
+    height: 20px;
+}
+label[for=no] {
+    position: absolute;
+    right: 0px;
+}
+#no:checked ~ .switch {
+    background: #eb4f37;
+}
+#no:checked ~ .switch span {
+    background: #fff;
+    margin-left: -8px;
+}
+#no:checked ~ .switch span:after {
+    background: #fff;
+    height: 20px;
+    margin-top: -8px;
+    margin-left: 8px;
+}
+#yes:checked ~ .switch label[for=yes] {
+    color: #fff;
+}
+#no:checked ~ .switch label[for=no] {
+    color: #fff;
+}
+
+
+
+
+.ul-bag {
+    list-style: none;
+
+}
+.ul-bag li input{
+    width: 50px;
+
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url("../fonts/fontawesome-webfont.eot?v=4.4.0");
+    src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.4.0") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff2?v=4.4.0") format("woff2"), url("../fonts/fontawesome-webfont.woff?v=4.4.0") format("woff"), url("../../fonts/fontawesome-webfont.ttf?v=4.4.0") format("truetype"), url("../fonts/fontawesome-webfont.svg?v=4.4.0#fontawesomeregular") format("svg"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url("../fonts/IRANSansWeb(FaNum)_Bold.eot");
+    src: url("../fonts/IRANSansWeb(FaNum)_Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSansWeb(FaNum)_Bold.woff2") format("woff2"), url("../fonts/IRANSansWeb(FaNum)_Bold.woff") format("woff"), url("../fonts/IRANSansWeb(FaNum)_Bold.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/IRANSansWeb(FaNum)_Medium.eot");
+    src: url("../fonts/IRANSansWeb(FaNum)_Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSansWeb(FaNum)_Medium.woff2") format("woff2"), url("../fonts/IRANSansWeb(FaNum)_Medium.woff") format("woff"), url("../fonts/IRANSansWeb(FaNum)_Medium.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../fonts/IRANSansWeb(FaNum)_Light.eot");
+    src: url("../fonts/IRANSansWeb(FaNum)_Light.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSansWeb(FaNum)_Light.woff2") format("woff2"), url("../fonts/IRANSansWeb(FaNum)_Light.woff") format("woff"), url("../fonts/IRANSansWeb(FaNum)_Light.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 200;
+    src: url("../fonts/IRANSansWeb(FaNum)_UltraLight.eot");
+    src: url("../fonts/IRANSansWeb(FaNum)_UltraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSansWeb(FaNum)_UltraLight.woff2") format("woff2"), url("../fonts/IRANSansWeb(FaNum)_UltraLight.woff") format("woff"), url("../fonts/IRANSansWeb(FaNum)_UltraLight.ttf") format("truetype"); }
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/IRANSansWeb(FaNum).eot");
+    src: url("../fonts/IRANSansWeb(FaNum).eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSansWeb(FaNum).woff2") format("woff2"), url("../fonts/IRANSansWeb(FaNum).woff") format("woff"), url("../fonts/IRANSansWeb(FaNum).ttf") format("truetype"); }
+@font-face {
+    font-family: 'custome-fonts';
+    src: url("../fonts/custome-fonts.eot?8cm4et");
+    src: url("../fonts/custome-fonts.eot?8cm4et#iefix") format("embedded-opentype"), url("../fonts/custome-fonts.ttf?8cm4et") format("truetype"), url("../fonts/custome-fonts.woff?8cm4et") format("woff"), url("../fonts/custome-fonts.svg?8cm4et#custome-fonts") format("svg");
+    font-weight: normal;
+    font-style: normal; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

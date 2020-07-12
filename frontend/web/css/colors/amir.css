@@ -1,0 +1,9 @@
+.slides{
+    display: inline-block;
+    width: 100%;
+    padding: 0 !important;
+}
+
+.flex-direction-nav{
+    display: none;
+}
